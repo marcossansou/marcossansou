@@ -67,6 +67,9 @@ main :: func(): void {
   </tbody>
 </table>
 
+# Github Stats
+
+[![Marcos S. Souza GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcossansou&show_icons=true&count_private=true)](https://github.com/marcossansou)
 <!--# 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - 💻 [Sadie Programming Language](https://github.com/sadie-lang/Sadie)
