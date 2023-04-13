@@ -17,13 +17,13 @@ main :: func(): void {
   ethan :: aboutMe = {
     pronouns: ["He", "Him"],
     languages: ["C", "C#", "Java", "Python"],
-    hobbies: ["Coding", "Gaming", "Talking"],
+    hobbies: ["Coding", "Gaming", "Play Drums"],
     funFact: "The first computer virus was created in 1983!"
   };
 
   println "Pronouns: ${marcos.pronouns}";
   println "Languages I Know: ${marcos.languages}";
-  println "My Hobbies: ${marcos.drumms}";
+  println "My Hobbies: ${marcos.hobies}";
   println "Fun Fact: ${marcos.funFact}";
 }
 ```
@@ -33,10 +33,10 @@ main :: func(): void {
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <!--<td width="25%" align="center">
         <span>𝗖</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
+      </td>-->
       <td width="25%" align="center">
         <span>𝗖#</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
@@ -51,10 +51,10 @@ main :: func(): void {
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <!--<td width="25%" align="center">
         <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-      </td>
+      </td>-->
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
@@ -67,7 +67,7 @@ main :: func(): void {
   </tbody>
 </table>
 
-# 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+<!--# 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - 💻 [Sadie Programming Language](https://github.com/sadie-lang/Sadie)
 
@@ -76,21 +76,21 @@ main :: func(): void {
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=munific&show_icons=true&hide_border=true)-->
 
-# 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 𝘄𝗲𝗲𝗸
+<!--# 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 𝘄𝗲𝗲𝗸
 I have achieved:
 - Write a tokenizer for [Sadie-lang](https://github.com/sadie-lang/Sadie)
 
-## Show ❤️ By Starring My Repos!
+## Show ❤️ By Starring My Repos!-->
 
 
 # Other
-Sadie-lang Discord:
+Discord:
 
 ![Discord](https://img.shields.io/discord/731577337686130858?label=Join%20The%20DIscord%21&logo=Sadie%20Lang&style=for-the-badge)
 
 ---
 
- ⭐️ From [munific](https://github.com/munific)
+
 
 <!--
 **marcossansou/marcossansou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
